@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HemanthKumar8251
+- 👋 Hi, I’m @HemanthKumar
 - 👀 I’m interested in coding, development
 - 🌱 I’m currently learning Data_Structures & Algorithms, C++, Python, Web_Development
 - 💞️ I’m looking to collaborate on coding contests
