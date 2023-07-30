@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HemanthKumar
 - 👀 I’m interested in coding, development
-- 🌱 I’m currently learning Data_Structures & Algorithms, C++, Web_Development
+- 🌱 I’m currently learning Data_Structures & Algorithms,MERN Stack
 - 💞️ I’m looking to collaborate on coding contests
-- 📫 How to reach me - mail id : hemanthkumar8251@gmail.com
+- 📫 How to reach me - mail id: hemanthkumar8251@gmail.com
 
 <!---
 HemanthKumar8251/HemanthKumar8251 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
