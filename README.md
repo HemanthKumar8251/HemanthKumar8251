@@ -1,6 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently working on MERN Stack Projects<br><br>🌱 I’m currently learning Data Structures and Algorithms, MERN Stack<br><br>👯 I’m looking to collaborate on Web Development Projects<br><br>💬 Ask me about node.js, express.js, react, Django and DSA<br><br>📫 How to reach me hemanthkumar8251@gmail.com
+<h1 align="center">Hello 👋, I'm Hemanth Kumar</h1>
+<h3 align="center">A dedicated web developer leveraging tech to solve challenges</h3> <br>
+<!-- <div align="center"> <img src="https://raw.githubusercontent.com/hemanthkumar8251/hemanthkumar8251/main/Banner.png"> </div> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthkumar8251&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthkumar8251" /> </p>
 
+🔭 I’m currently working on MERN Stack Projects<br><br>🌱 I’m currently learning Data Structures and Algorithms, MERN Stack<br><br>👯 I’m looking to collaborate on Web Development Projects<br><br>💬 Ask me about node.js, express.js, react, Django and DSA<br><br>📫 How to reach me hemanthkumar8251@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hemanth_kumar_kittu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemanth-kumar-hk) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@hemanthkumar8251) 
@@ -12,20 +15,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hemanthkumar8251&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkumar8251&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hemanthkumar8251&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hemanthkumar8251&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=hemanthkumar8251&icon=4&color=12)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hemanthkumar2210) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
