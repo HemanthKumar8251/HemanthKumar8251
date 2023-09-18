@@ -1,6 +1,8 @@
 <h1 align="center">Hello 👋, I'm Hemanth Kumar</h1>
 <h3 align="center">A dedicated web developer leveraging tech to solve challenges</h3> <br>
 <!-- <div align="center"> <img src="https://raw.githubusercontent.com/hemanthkumar8251/hemanthkumar8251/main/Banner.png"> </div> -->
+<img align="right" width="300px" alt="Coding" width="400" src="https://github.com/HemanthKumar8251/HemanthKumar8251/assets/85030810/77a6939a-ae01-4938-8743-cf92390b460c">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthkumar8251&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthkumar8251" /> </p>
 
 🔭 I’m currently working on MERN Stack Projects<br><br>🌱 I’m currently learning Data Structures and Algorithms, MERN Stack<br><br>👯 I’m looking to collaborate on Web Development Projects<br><br>💬 Ask me about node.js, express.js, react, Django and DSA<br><br>📫 How to reach me hemanthkumar8251@gmail.com
