@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthkumar8251&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthkumar8251" /> </p>
 
-🔭 I’m currently working on JPA, Jakarta EE and Spring Projects<br><br>🌱 I’m presently learning DevOps, Spring Boot and JPA<br><br>👯 I’m looking to collaborate on Java-based Web Applications<br><br>💬 Ask me about Core Java, Jakarta EE, Spring, Spring Boot, Postgres and JPA<br><br>📫 How to reach me hemanthkumar8251@gmail.com
+🔭 I’m currently working on Backend Development with Python<br><br>🌱 I’m presently learning DevOps, AWS Services and AI-ML<br><br>👯 I’m looking to collaborate on Python based Web Applications<br><br>💬 Ask me about Python, Django, RESTful API Development, Postgres and Core Java<br><br>📫 How to reach me hemanthkumar8251@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hemanth_kumar_kittu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemanth-kumar-hk) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@hemanthkumar8251) 
